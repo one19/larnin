@@ -19,3 +19,4 @@ I really just want a single-page app that does very litle, and passes about JSON
 *and with thinking on structure from:*
 
 [_the little schema_](http://slides.davidbanham.com/little_schema/#/5/2)
+[_and this react schema tute_](https://facebook.github.io/react/docs/thinking-in-react.html)
