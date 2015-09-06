@@ -6,7 +6,7 @@ I really just want a single-page app that does very litle, and passes about JSON
 
 *Here we go!*
 
-[_starting with:_](https://medium.com/startup-study-group/40-npm-modules-we-can-t-live-without-36e29e352e3a)
+[_starting with_](https://medium.com/startup-study-group/40-npm-modules-we-can-t-live-without-36e29e352e3a)
 
 *and*
 
@@ -18,5 +18,5 @@ I really just want a single-page app that does very litle, and passes about JSON
 
 *and with thinking on structure from:*
 
-[_the little schema_](http://slides.davidbanham.com/little_schema/#/5/2)
+[_the little schema, _](http://slides.davidbanham.com/little_schema/#/5/2)
 [_and this react schema tute_](https://facebook.github.io/react/docs/thinking-in-react.html)
